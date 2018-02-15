@@ -168,6 +168,8 @@ header {
   width: 16.66666%;
   margin-left: 0;
   padding: 22px 0;
+  text-transform: uppercase;
+  color: black;
 }
 
 /*////////// LOGO //////////*/
