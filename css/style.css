@@ -164,7 +164,8 @@ header {
 }
 
 #navbar nav a {
-
+  display: inline-block;
+  width: 16.66667%
 }
 
 /*////////// LOGO //////////*/
